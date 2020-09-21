@@ -1,0 +1,10 @@
+{
+	"name": "Joanwebsite",
+	"description": "Test for uploading Joan website to html5 router",
+	"dependencies": {
+		"@sap/approuter": "^8.5.0"
+	},
+	"scripts": {
+		"start": "node node_modules/@sap/approuter/approuter.js"
+	}
+}
